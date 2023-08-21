@@ -1,0 +1,10 @@
+
+
+.d-flex >div{
+    box-shadow: 7px 7px 20px gray;
+}
+
+#carouselExampleCaptions img {
+    width: 100%;
+    height: 500px;
+}
